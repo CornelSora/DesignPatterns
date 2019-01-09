@@ -1,0 +1,11 @@
+C:\Users\Cornel\source\repos\ProiectRoboti\ProiectRoboti\bin\Debug\netcoreapp2.1\ProiectRoboti.deps.json
+C:\Users\Cornel\source\repos\ProiectRoboti\ProiectRoboti\bin\Debug\netcoreapp2.1\ProiectRoboti.runtimeconfig.json
+C:\Users\Cornel\source\repos\ProiectRoboti\ProiectRoboti\bin\Debug\netcoreapp2.1\ProiectRoboti.runtimeconfig.dev.json
+C:\Users\Cornel\source\repos\ProiectRoboti\ProiectRoboti\bin\Debug\netcoreapp2.1\ProiectRoboti.dll
+C:\Users\Cornel\source\repos\ProiectRoboti\ProiectRoboti\bin\Debug\netcoreapp2.1\ProiectRoboti.pdb
+C:\Users\Cornel\source\repos\ProiectRoboti\ProiectRoboti\obj\Debug\netcoreapp2.1\ProiectRoboti.csprojAssemblyReference.cache
+C:\Users\Cornel\source\repos\ProiectRoboti\ProiectRoboti\obj\Debug\netcoreapp2.1\ProiectRoboti.csproj.CoreCompileInputs.cache
+C:\Users\Cornel\source\repos\ProiectRoboti\ProiectRoboti\obj\Debug\netcoreapp2.1\ProiectRoboti.AssemblyInfoInputs.cache
+C:\Users\Cornel\source\repos\ProiectRoboti\ProiectRoboti\obj\Debug\netcoreapp2.1\ProiectRoboti.AssemblyInfo.cs
+C:\Users\Cornel\source\repos\ProiectRoboti\ProiectRoboti\obj\Debug\netcoreapp2.1\ProiectRoboti.dll
+C:\Users\Cornel\source\repos\ProiectRoboti\ProiectRoboti\obj\Debug\netcoreapp2.1\ProiectRoboti.pdb

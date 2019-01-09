@@ -1,0 +1,11 @@
+C:\Users\Cornel\source\repos\Prototype\Prototype\bin\Debug\netcoreapp2.1\Prototype.deps.json
+C:\Users\Cornel\source\repos\Prototype\Prototype\bin\Debug\netcoreapp2.1\Prototype.runtimeconfig.json
+C:\Users\Cornel\source\repos\Prototype\Prototype\bin\Debug\netcoreapp2.1\Prototype.runtimeconfig.dev.json
+C:\Users\Cornel\source\repos\Prototype\Prototype\bin\Debug\netcoreapp2.1\Prototype.dll
+C:\Users\Cornel\source\repos\Prototype\Prototype\bin\Debug\netcoreapp2.1\Prototype.pdb
+C:\Users\Cornel\source\repos\Prototype\Prototype\obj\Debug\netcoreapp2.1\Prototype.csprojAssemblyReference.cache
+C:\Users\Cornel\source\repos\Prototype\Prototype\obj\Debug\netcoreapp2.1\Prototype.csproj.CoreCompileInputs.cache
+C:\Users\Cornel\source\repos\Prototype\Prototype\obj\Debug\netcoreapp2.1\Prototype.AssemblyInfoInputs.cache
+C:\Users\Cornel\source\repos\Prototype\Prototype\obj\Debug\netcoreapp2.1\Prototype.AssemblyInfo.cs
+C:\Users\Cornel\source\repos\Prototype\Prototype\obj\Debug\netcoreapp2.1\Prototype.dll
+C:\Users\Cornel\source\repos\Prototype\Prototype\obj\Debug\netcoreapp2.1\Prototype.pdb

@@ -1,0 +1,11 @@
+C:\Users\Cornel\source\repos\ProiectMultimedia\ProiectMultimedia\bin\Debug\netcoreapp2.1\ProiectMultimedia.deps.json
+C:\Users\Cornel\source\repos\ProiectMultimedia\ProiectMultimedia\bin\Debug\netcoreapp2.1\ProiectMultimedia.runtimeconfig.json
+C:\Users\Cornel\source\repos\ProiectMultimedia\ProiectMultimedia\bin\Debug\netcoreapp2.1\ProiectMultimedia.runtimeconfig.dev.json
+C:\Users\Cornel\source\repos\ProiectMultimedia\ProiectMultimedia\bin\Debug\netcoreapp2.1\ProiectMultimedia.dll
+C:\Users\Cornel\source\repos\ProiectMultimedia\ProiectMultimedia\bin\Debug\netcoreapp2.1\ProiectMultimedia.pdb
+C:\Users\Cornel\source\repos\ProiectMultimedia\ProiectMultimedia\obj\Debug\netcoreapp2.1\ProiectMultimedia.csprojAssemblyReference.cache
+C:\Users\Cornel\source\repos\ProiectMultimedia\ProiectMultimedia\obj\Debug\netcoreapp2.1\ProiectMultimedia.csproj.CoreCompileInputs.cache
+C:\Users\Cornel\source\repos\ProiectMultimedia\ProiectMultimedia\obj\Debug\netcoreapp2.1\ProiectMultimedia.AssemblyInfoInputs.cache
+C:\Users\Cornel\source\repos\ProiectMultimedia\ProiectMultimedia\obj\Debug\netcoreapp2.1\ProiectMultimedia.AssemblyInfo.cs
+C:\Users\Cornel\source\repos\ProiectMultimedia\ProiectMultimedia\obj\Debug\netcoreapp2.1\ProiectMultimedia.dll
+C:\Users\Cornel\source\repos\ProiectMultimedia\ProiectMultimedia\obj\Debug\netcoreapp2.1\ProiectMultimedia.pdb

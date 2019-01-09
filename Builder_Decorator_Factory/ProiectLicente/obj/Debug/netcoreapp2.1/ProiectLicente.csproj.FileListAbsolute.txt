@@ -1,0 +1,11 @@
+C:\Users\Cornel\source\repos\ProiectLicente\ProiectLicente\obj\Debug\netcoreapp2.1\ProiectLicente.csprojAssemblyReference.cache
+C:\Users\Cornel\source\repos\ProiectLicente\ProiectLicente\obj\Debug\netcoreapp2.1\ProiectLicente.csproj.CoreCompileInputs.cache
+C:\Users\Cornel\source\repos\ProiectLicente\ProiectLicente\obj\Debug\netcoreapp2.1\ProiectLicente.AssemblyInfoInputs.cache
+C:\Users\Cornel\source\repos\ProiectLicente\ProiectLicente\obj\Debug\netcoreapp2.1\ProiectLicente.AssemblyInfo.cs
+C:\Users\Cornel\source\repos\ProiectLicente\ProiectLicente\bin\Debug\netcoreapp2.1\ProiectLicente.deps.json
+C:\Users\Cornel\source\repos\ProiectLicente\ProiectLicente\bin\Debug\netcoreapp2.1\ProiectLicente.runtimeconfig.json
+C:\Users\Cornel\source\repos\ProiectLicente\ProiectLicente\bin\Debug\netcoreapp2.1\ProiectLicente.runtimeconfig.dev.json
+C:\Users\Cornel\source\repos\ProiectLicente\ProiectLicente\bin\Debug\netcoreapp2.1\ProiectLicente.dll
+C:\Users\Cornel\source\repos\ProiectLicente\ProiectLicente\bin\Debug\netcoreapp2.1\ProiectLicente.pdb
+C:\Users\Cornel\source\repos\ProiectLicente\ProiectLicente\obj\Debug\netcoreapp2.1\ProiectLicente.dll
+C:\Users\Cornel\source\repos\ProiectLicente\ProiectLicente\obj\Debug\netcoreapp2.1\ProiectLicente.pdb

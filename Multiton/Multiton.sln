@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2048
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Multiton", "Multiton\Multiton.csproj", "{CCC52B5B-4298-4625-B5C5-6E9CDB658A4E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CCC52B5B-4298-4625-B5C5-6E9CDB658A4E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CCC52B5B-4298-4625-B5C5-6E9CDB658A4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CCC52B5B-4298-4625-B5C5-6E9CDB658A4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CCC52B5B-4298-4625-B5C5-6E9CDB658A4E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0E4BA74F-27C0-4623-9F30-0FA2E355F3C0}
+	EndGlobalSection
+EndGlobal

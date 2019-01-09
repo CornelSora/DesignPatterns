@@ -1,0 +1,11 @@
+C:\Users\Cornel\source\repos\Proiect\Proiect\bin\Debug\netcoreapp2.1\Proiect.deps.json
+C:\Users\Cornel\source\repos\Proiect\Proiect\bin\Debug\netcoreapp2.1\Proiect.runtimeconfig.json
+C:\Users\Cornel\source\repos\Proiect\Proiect\bin\Debug\netcoreapp2.1\Proiect.runtimeconfig.dev.json
+C:\Users\Cornel\source\repos\Proiect\Proiect\bin\Debug\netcoreapp2.1\Proiect.dll
+C:\Users\Cornel\source\repos\Proiect\Proiect\bin\Debug\netcoreapp2.1\Proiect.pdb
+C:\Users\Cornel\source\repos\Proiect\Proiect\obj\Debug\netcoreapp2.1\Proiect.csprojAssemblyReference.cache
+C:\Users\Cornel\source\repos\Proiect\Proiect\obj\Debug\netcoreapp2.1\Proiect.csproj.CoreCompileInputs.cache
+C:\Users\Cornel\source\repos\Proiect\Proiect\obj\Debug\netcoreapp2.1\Proiect.AssemblyInfoInputs.cache
+C:\Users\Cornel\source\repos\Proiect\Proiect\obj\Debug\netcoreapp2.1\Proiect.AssemblyInfo.cs
+C:\Users\Cornel\source\repos\Proiect\Proiect\obj\Debug\netcoreapp2.1\Proiect.dll
+C:\Users\Cornel\source\repos\Proiect\Proiect\obj\Debug\netcoreapp2.1\Proiect.pdb

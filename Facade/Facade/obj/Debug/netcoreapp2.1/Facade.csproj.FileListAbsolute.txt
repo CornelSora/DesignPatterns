@@ -1,0 +1,10 @@
+C:\Users\stud\source\repos\Facade\Facade\bin\Debug\netcoreapp2.1\Facade.deps.json
+C:\Users\stud\source\repos\Facade\Facade\bin\Debug\netcoreapp2.1\Facade.runtimeconfig.json
+C:\Users\stud\source\repos\Facade\Facade\bin\Debug\netcoreapp2.1\Facade.runtimeconfig.dev.json
+C:\Users\stud\source\repos\Facade\Facade\bin\Debug\netcoreapp2.1\Facade.dll
+C:\Users\stud\source\repos\Facade\Facade\bin\Debug\netcoreapp2.1\Facade.pdb
+C:\Users\stud\source\repos\Facade\Facade\obj\Debug\netcoreapp2.1\Facade.csproj.CoreCompileInputs.cache
+C:\Users\stud\source\repos\Facade\Facade\obj\Debug\netcoreapp2.1\Facade.AssemblyInfoInputs.cache
+C:\Users\stud\source\repos\Facade\Facade\obj\Debug\netcoreapp2.1\Facade.AssemblyInfo.cs
+C:\Users\stud\source\repos\Facade\Facade\obj\Debug\netcoreapp2.1\Facade.dll
+C:\Users\stud\source\repos\Facade\Facade\obj\Debug\netcoreapp2.1\Facade.pdb

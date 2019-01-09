@@ -1,0 +1,11 @@
+C:\Users\Cornel\source\repos\MVCConsole\MVCConsole\bin\Debug\netcoreapp2.1\MVCConsole.deps.json
+C:\Users\Cornel\source\repos\MVCConsole\MVCConsole\bin\Debug\netcoreapp2.1\MVCConsole.runtimeconfig.json
+C:\Users\Cornel\source\repos\MVCConsole\MVCConsole\bin\Debug\netcoreapp2.1\MVCConsole.runtimeconfig.dev.json
+C:\Users\Cornel\source\repos\MVCConsole\MVCConsole\bin\Debug\netcoreapp2.1\MVCConsole.dll
+C:\Users\Cornel\source\repos\MVCConsole\MVCConsole\bin\Debug\netcoreapp2.1\MVCConsole.pdb
+C:\Users\Cornel\source\repos\MVCConsole\MVCConsole\obj\Debug\netcoreapp2.1\MVCConsole.csprojAssemblyReference.cache
+C:\Users\Cornel\source\repos\MVCConsole\MVCConsole\obj\Debug\netcoreapp2.1\MVCConsole.csproj.CoreCompileInputs.cache
+C:\Users\Cornel\source\repos\MVCConsole\MVCConsole\obj\Debug\netcoreapp2.1\MVCConsole.AssemblyInfoInputs.cache
+C:\Users\Cornel\source\repos\MVCConsole\MVCConsole\obj\Debug\netcoreapp2.1\MVCConsole.AssemblyInfo.cs
+C:\Users\Cornel\source\repos\MVCConsole\MVCConsole\obj\Debug\netcoreapp2.1\MVCConsole.dll
+C:\Users\Cornel\source\repos\MVCConsole\MVCConsole\obj\Debug\netcoreapp2.1\MVCConsole.pdb

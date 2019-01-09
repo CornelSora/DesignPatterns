@@ -1,0 +1,11 @@
+C:\Users\Cornel\source\repos\Bridge\Bridge\bin\Debug\netcoreapp2.1\Bridge.deps.json
+C:\Users\Cornel\source\repos\Bridge\Bridge\bin\Debug\netcoreapp2.1\Bridge.runtimeconfig.json
+C:\Users\Cornel\source\repos\Bridge\Bridge\bin\Debug\netcoreapp2.1\Bridge.runtimeconfig.dev.json
+C:\Users\Cornel\source\repos\Bridge\Bridge\bin\Debug\netcoreapp2.1\Bridge.dll
+C:\Users\Cornel\source\repos\Bridge\Bridge\bin\Debug\netcoreapp2.1\Bridge.pdb
+C:\Users\Cornel\source\repos\Bridge\Bridge\obj\Debug\netcoreapp2.1\Bridge.csprojAssemblyReference.cache
+C:\Users\Cornel\source\repos\Bridge\Bridge\obj\Debug\netcoreapp2.1\Bridge.csproj.CoreCompileInputs.cache
+C:\Users\Cornel\source\repos\Bridge\Bridge\obj\Debug\netcoreapp2.1\Bridge.AssemblyInfoInputs.cache
+C:\Users\Cornel\source\repos\Bridge\Bridge\obj\Debug\netcoreapp2.1\Bridge.AssemblyInfo.cs
+C:\Users\Cornel\source\repos\Bridge\Bridge\obj\Debug\netcoreapp2.1\Bridge.dll
+C:\Users\Cornel\source\repos\Bridge\Bridge\obj\Debug\netcoreapp2.1\Bridge.pdb

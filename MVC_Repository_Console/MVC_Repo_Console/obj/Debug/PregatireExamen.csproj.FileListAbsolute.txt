@@ -1,0 +1,7 @@
+C:\Users\Cornel\source\repos\PregatireExamen\PregatireExamen\bin\Debug\PregatireExamen.exe.config
+C:\Users\Cornel\source\repos\PregatireExamen\PregatireExamen\bin\Debug\PregatireExamen.exe
+C:\Users\Cornel\source\repos\PregatireExamen\PregatireExamen\bin\Debug\PregatireExamen.pdb
+C:\Users\Cornel\source\repos\PregatireExamen\PregatireExamen\obj\Debug\PregatireExamen.csprojAssemblyReference.cache
+C:\Users\Cornel\source\repos\PregatireExamen\PregatireExamen\obj\Debug\PregatireExamen.csproj.CoreCompileInputs.cache
+C:\Users\Cornel\source\repos\PregatireExamen\PregatireExamen\obj\Debug\PregatireExamen.exe
+C:\Users\Cornel\source\repos\PregatireExamen\PregatireExamen\obj\Debug\PregatireExamen.pdb
